@@ -71,18 +71,6 @@ This repository provides tools and datasets for investigating adversarial suffix
 - `datasets/`: Contains benign dataset for harmful fine-tuning
 - `code/`: Source code for attacks and data generation
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Llama2 and Llama3 model developers
-- Appreciation to all contributors and researchers in the field of adversarial machine learning
 
 ## Disclaimer
 
